@@ -22,7 +22,8 @@ This project was created to practice and improve my skills in:
 	•	Adding interactivity using JavaScript
 
 How to Run the Project
-	1.	Clone the repository: git clone https://github.com/fatima-azfarr/TechTiz-Homepage.git
-  2.  Navigate into the project folder: cd TechTiz-Homepage
-  3.  Open index.html in your browser: open index.html  # Mac or start index.html # Windows
+
+1.Clone the repository: git clone https://github.com/fatima-azfarr/TechTiz-Homepage.git
+2.  Navigate into the project folder: cd TechTiz-Homepage
+3.  Open index.html in your browser: open index.html  # Mac or start index.html # Windows
   
